@@ -62,6 +62,11 @@ src/
 - Easily extendable for API integration or global state
 
 ---
+🌐 Deployment
+
+This project is optimized for Vercel deployment.
+https://frontend-test-solution-hv6t.vercel.app/
+
 
 ## ⚙️ Installation & Setup
 
@@ -79,7 +84,3 @@ npm run dev
 4️⃣ Build for production
 npm run build
 
-🌐 Deployment
-
-This project is optimized for Vercel deployment.
-https://frontend-test-solution-hv6t.vercel.app/
