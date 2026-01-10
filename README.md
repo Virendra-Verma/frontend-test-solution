@@ -68,6 +68,12 @@ This project is optimized for Vercel deployment.
 https://frontend-test-solution-hv6t.vercel.app/
 
 
+👨‍💻 Author
+
+Virendra Kumar Verma Full-Stack Developer (Fresher) Skilled in React, FastAPI, REST APIs, and Database Integration
+
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
